@@ -1,7 +1,7 @@
 {
   "name": "always.Ninja.JS",
   "version": "0.0.0",
-  "description": "",
+  "description": "Retorna uma funcao com o valor dado",
   "main": "always.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
